@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://projectedrealities.files.wordpress.com/2014/01/ratatouille-remy-800x1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+.titulo-1{
+    background-color: rgb(15, 36, 39);
+    color: azure;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.button{
+    color:blueviolet;
+    background-color:white;
+    font-size: 15px;
+}
+.body-new{
+    background-image: url(https://thumbs.dreamstime.com/z/alimentos-de-preparaci%C3%B3n-r%C3%A1pida-fondo-incons%C3%BAtil-32047540.jpg);
+    background-size: cover; 
+    background-position-x:center;
+    background-size:  2300px;
+
+}
+.button-2{
+    color: rgb(209, 209, 204);
+    background-color: rgb(24, 15, 15);
+    font-size: 20px;
+}
+tr{
+    color: rgb(3, 3, 3);
+    background-color: blanchedalmond;
+}
+
+    
